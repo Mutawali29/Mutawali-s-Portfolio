@@ -33,7 +33,7 @@ const Contact = ({ onClose }) => {
                 <div className="flex space-x-8 justify-center">
                     {/* Instagram */}
                     <a
-                        href="https://instagram.com"
+                        href="https://www.instagram.com/qusaymutawali?igsh=MWs4cDZ5ZHN3ZXVzdw=="
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-5xl md:text-6xl text-white hover:text-pink-500 transition-colors transform hover:scale-125"
@@ -42,7 +42,7 @@ const Contact = ({ onClose }) => {
                     </a>
                     {/* LinkedIn */}
                     <a
-                        href="https://linkedin.com"
+                        href="https://www.linkedin.com/in/qusay-mutawali-585495288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-5xl md:text-6xl text-white hover:text-blue-500 transition-colors transform hover:scale-125"
@@ -51,7 +51,7 @@ const Contact = ({ onClose }) => {
                     </a>
                     {/* GitHub */}
                     <a
-                        href="https://github.com"
+                        href="https://github.com/Mutawali29?tab=repositories"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-5xl md:text-6xl text-white hover:text-gray-400 transition-colors transform hover:scale-125"
