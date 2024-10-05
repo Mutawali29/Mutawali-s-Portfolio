@@ -1,7 +1,7 @@
 import React, { useRef, useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Contact from "./Menuu/Contact"; // Import the Contact component
-import Cv from "./Menuu/Cv"; // Ensure correct import for CV
+import Cv from "./Menuu/CV"; // Ensure correct import for CV
 
 const Menu = ({ isMenuOpen, handleMenuToggle }) => {
     const menuRef = useRef(null);
