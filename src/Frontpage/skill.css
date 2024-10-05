@@ -1,0 +1,25 @@
+/* CSS for text morphing effect */
+@keyframes textMorph {
+    0% {
+      clip-path: inset(0 100% 0 0);
+      opacity: 0;
+    }
+    50% {
+      clip-path: inset(0 0 0 0);
+      opacity: 0.5;
+    }
+    100% {
+      clip-path: inset(0 0 0 0);
+      opacity: 1;
+    }
+  }
+  
+  .morph-text {
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: bold;
+    animation: textMorph 1s ease-out;
+    position: relative;
+    overflow: hidden;
+  }
+  
