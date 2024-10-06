@@ -81,7 +81,7 @@ const Uiux = () => {
                 animate={{ opacity: showUiuxPage ? 0 : 1, scale: 1 }}
                 exit={{ opacity: 0, scale: 0.65 }}
                 transition={{ duration: 0.5 }}
-                className="absolute mt-[-200px]  ml-20 sm:ml-40 ls:ml-48 ll:ml-64 mt-[-50px] lg:mt-[-410px] lg:ml-80 opacity-20"
+                className="relative mt-[-301px] sm:absolute  ml-20 sm:ml-40 ls:ml-48 ll:ml-64 mt-[-50px] lg:mt-[-410px] lg:ml-80 opacity-20"
             >
                 <img src={img} alt="img" className="h-[300px] lg:h-[480px] lg:ml-12 opacity-30" />
             </motion.div>
