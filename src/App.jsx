@@ -21,7 +21,7 @@ function App() {
             <Route path="/front" element={<Front />} />
             <Route path="/uiux" element={<Uiux />} />
             <Route path="/video" element={<Video />} />
-            <Route path="/" element={<Front />} />
+            <Route path="/front" element={<Front />} />
           </Routes>
         </AnimatePresence>
       </div>
