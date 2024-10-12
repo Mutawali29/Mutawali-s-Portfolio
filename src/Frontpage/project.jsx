@@ -43,8 +43,8 @@ const projectData = [
     {
         title: "Web Services Next Js",
         image: next, // Ensure this URL is valid
-        github: "https://github.com/mutawali29/pdf-to-word-tool",
-        live: "https://www.ilovepdf.com/pdf_to_word"
+        github: "https://github.com/Mutawali29/services-web-next",
+        live: "https://mutawali29.github.io/services-web-next/"
     }
 ];
 
