@@ -57,7 +57,7 @@ const Cv = ({ onClose }) => {
                 <section className="mb-8">
                     <h2 className="text-2xl font-semibold mb-4">Profile</h2>
                     <p className="text-gray-700">
-                        I am currently pursuing a degree in Computer Science, and I am an experienced Front-End Developer with expertise in HTML, CSS, JavaScript, and various frameworks including React, Next.js, and Vue.js. In addition, I have intermediate skills as a Designer, having completed several projects using Figma. I am also proficient in Video Editing, utilizing tools such as After Effects, Premiere Pro, and DaVinci Resolve for my creative projects.
+                        I am currently pursuing a degree in Computer Science, and I am an experienced Front-End Developer with good understanding in HTML, CSS, JavaScript, and frameworks like React. In addition, I have intermediate skills as a Designer, having completed several projects using Figma. I am also proficient in Video Editing, utilizing tools such as After Effects, Premiere Pro, and DaVinci Resolve for my creative projects.
                     </p>
                 </section>
                 <hr className="my-4" />
@@ -86,11 +86,11 @@ const Cv = ({ onClose }) => {
                     <h2 className="text-2xl font-semibold mb-4">Experience</h2>
                     <div className="mb-6">
                         <h3 className="text-xl font-semibold">Freelancer Front-End Developer</h3>
-                        <p className="text-gray-600">Upwork, Fastwork | December 2023 - Present</p>
+                        <p className="text-gray-600">December 2023 - Present</p>
                         <ul className="list-disc ml-6 text-gray-700">
                             <li>Developed responsive websites and web applications for various clients.</li>
                             <li>Collaborated with designers to implement user-friendly interfaces.</li>
-                            <li>Utilized modern frameworks and libraries such as React and Vue.js.</li>
+                            <li>Utilized modern frameworks and libraries such as React</li>
                         </ul>
                     </div>
                     <div className="mb-6">
@@ -119,7 +119,7 @@ const Cv = ({ onClose }) => {
                     <h2 className="text-2xl font-semibold mb-4">Skills</h2>
                     <ul className="list-disc ml-6 text-gray-700">
                         <li>HTML, CSS, JavaScript</li>
-                        <li>React, Next.js, Vue.js</li>
+                        <li>React</li>
                         <li>Figma</li>
                         <li>Video Editing (After Effects, Premiere Pro, DaVinci Resolve)</li>
                     </ul>
